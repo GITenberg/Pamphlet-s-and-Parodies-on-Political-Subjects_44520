@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '42795'
     url: http://www.gutenberg.org/2009/agents/42795
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44520#Pamphlet-s-and-Parodies-on-Political-Subjects
 gutenberg_issued: '2013-12-26'
 gutenberg_type: Text
 identifiers:
